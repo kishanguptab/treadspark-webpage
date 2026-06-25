@@ -22,6 +22,11 @@ export function Footer() {
               <p className="font-semibold text-foreground">Product</p>
               <ul className="mt-3 space-y-2 text-muted">
                 <li>
+                  <Link href="#about" className="hover:text-foreground">
+                    About
+                  </Link>
+                </li>
+                <li>
                   <Link href="#trusted" className="hover:text-foreground">
                     Customers
                   </Link>

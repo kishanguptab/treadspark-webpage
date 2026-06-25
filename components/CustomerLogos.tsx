@@ -28,7 +28,7 @@ export function CustomerLogos() {
   return (
     <section
       id="trusted"
-      className="border-y border-line bg-section px-4 py-10 sm:px-6 sm:py-12 lg:px-8"
+      className="border-y border-line bg-background px-4 py-10 sm:px-6 sm:py-12 lg:px-8"
     >
       <p className="text-center text-[10px] font-semibold uppercase tracking-[0.22em] text-muted-light sm:text-[11px] sm:tracking-[0.24em]">
         Trusted by

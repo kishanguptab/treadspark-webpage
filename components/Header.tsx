@@ -11,6 +11,9 @@ export function Header() {
         </Link>
 
         <nav className="hidden items-center gap-6 text-sm font-medium text-muted md:flex lg:gap-8">
+          <Link href="#about" className="transition-colors hover:text-foreground">
+            About
+          </Link>
           <Link href="#trusted" className="transition-colors hover:text-foreground">
             Customers
           </Link>
